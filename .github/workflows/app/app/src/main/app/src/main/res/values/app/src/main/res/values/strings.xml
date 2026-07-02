@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavGesture</string>
+    <string name="service_description">Detects left/right swipes on the bottom navigation bar to switch between apps. No internet, minimal battery usage.</string>
+</resources>
