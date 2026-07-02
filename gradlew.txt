@@ -1,0 +1,4 @@
+#!/bin/sh
+# Gradle wrapper stub — the real wrapper is downloaded by the build system
+# When building via GitHub Actions, Gradle is set up via actions/setup-gradle
+exec gradle "$@"
